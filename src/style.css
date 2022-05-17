@@ -68,6 +68,10 @@ form div button img,
   width: 20px;
 }
 
+.remove:hover img {
+  content: url(./art/delete.svg);
+}
+
 .todo-placeholder {
   flex-flow: column;
 }
